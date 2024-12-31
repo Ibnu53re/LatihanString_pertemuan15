@@ -2,7 +2,7 @@
 
 **Program akan meminta kita untuk memasukkan jumlah karakter, karakter terakhir, karakter index ke-2 sampai index ke-4, teks tanpa spasi, teks dalam huruf besar, teks dalam huruf kecil :**
 
-![Output String 1](https://github.com/user-attachments/assets/f8b0b84a-a5f6-4460-92c6-917d0731c6c7)
+![Output](OutputString.png)
 
 **Penjelasan Code**
 
