@@ -56,7 +56,7 @@ Output: Teks setelah mengganti H dengan J: Jello
 
 *Program akan meminta kita untuk memasukkan Hello, nama saya john, dan umur saya adalah 24 tahun:*
 
-![Output string 2](https://github.com/user-attachments/assets/f01227bf-62f6-4326-bc92-b4e0707bcd95)
+![Output](OutputString2.png)
 
 **Penjelasan Code**
 
